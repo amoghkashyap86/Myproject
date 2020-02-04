@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BmiCalci</string>
+    <string name="bmicalclator">BMIcalclator</string>
+    <string name="enter_age">Enter age</string>
+    <string name="enter_weight">enter weight</string>
+    <string name="calculatebmi">calculateBmi</string>
+    <string name="calculate_bmi">calculate Bmi!</string>
+    <string name="enterheight">enterHeight</string>
+    <string name="enter_weight_in_kg">enter weight(in kg)</string>
+    <string name="enter_height_in_feet">enter height(in feet)</string>
+    <string name="textview">TextView</string>
+    <string name="previous">previous</string>
+    <string name="get_health_status">get health status</string>
+    <string name="thirdactivity">thirdActivity</string>
+    <string name="button">Button</string>
+
+    <string name="ehooooo">ehooooo</string>
+    <string name="dietsuggestion">DietSuggestion</string>
+</resources>
